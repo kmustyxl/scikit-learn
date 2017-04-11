@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6e7b0efc-740a-4301-818f-a4e7c122b28b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SVM.py</StartupFile>
+    <StartupFile>module1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Linear Regression .py" />
+    <Compile Include="module1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Ridge Regression.py">
       <SubType>Code</SubType>
     </Compile>
